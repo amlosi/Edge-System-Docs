@@ -78,7 +78,7 @@ references:
   href: index.html
 - uid: IndexConfig
   name: IndexConfig
-  href: Documentation/DataViews/IndexConfig.html
+  href: Documentation/DataIngress/IndexConfig.html
 - uid: IngressIntroduction
   name: Introduction to Data Ingress
   href: Documentation/DataIngress/Introduction.html

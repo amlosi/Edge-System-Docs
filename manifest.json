@@ -37,9 +37,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "Conceptual",
       "source_relative_path": "Documentation/DataIngress/IndexConfig.md",
       "output": {
@@ -115,6 +112,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "Conceptual",
       "source_relative_path": "Documentation/DataViews/IndexConfig.md",
       "output": {
@@ -132,7 +132,7 @@
       "output": {
         ".html": {
           "relative_path": "Documentation/DataViews/Introduction.html",
-          "hash": "22KEigKNMgfAW2TCZ5vskA=="
+          "hash": "YOSh7cOsKsa0vq2Yhb4ABA=="
         }
       },
       "is_incremental": false,
@@ -709,7 +709,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "6VpQNgXj7nsPXxnVrNLTOQ=="
+          "hash": "4g26t/sSSyttB7dFSnbkiQ=="
         }
       },
       "is_incremental": false,
